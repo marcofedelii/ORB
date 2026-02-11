@@ -1,0 +1,1 @@
+﻿"""Range calculation module."""
